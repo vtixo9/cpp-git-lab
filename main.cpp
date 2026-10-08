@@ -10,5 +10,6 @@ int main() {
     std::cin >> a2;
     
     std::cout << "Сумма a1 и a2: " << (a1 + a2) << std::endl;
+    std::cout << "Произведение a1 и a2: " << (a1 * a2) << std::endl;
     return 0;
 }
